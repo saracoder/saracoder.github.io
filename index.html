@@ -1,10 +1,7 @@
 <html>
   <head>
     <script>
-      var host = "www.kokuclothes.com"
-      if (window.location.host == host && window.location.protocol != "https:") {
-      window.location.protocol = "https:"
-      }
+      if (window.location.href.match("http://MYDOMAIN")) window.location.protocol='https:'
     </script>
     <div>
       <img src="kokuclothes_header.png" class="w-full top-0">
