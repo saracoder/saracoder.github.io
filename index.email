@@ -1,0 +1,19 @@
+<html>
+<body>
+<span>Anda telah memesan barangan <span style="color: purple; font-size: larger; font-weight: bold;">_NOMBOR</span>.
+<br/>
+<span style="font-style: italic;">You have requested item <span style="color: purple; font-size: larger; font-weight: bold;">_NOMBOR</span>.</span></span>
+
+<p>Sila tunggu e-mel daripada penderma untuk mengaturkan pengambilan/penghantaran barangan.
+<br/>
+<span style="font-style: italic;">Please wait for the donator to contact you to arrange pickup/delivery.</span></p>
+
+<div>
+      <img src="https://drive.google.com/file/d/1BhsPdgikcOILxFxM7FMHVEW0affzgCWm/view?usp=sharing" width="40%"/>
+</div>
+
+<span style="font-size: 75%; color: grey;">Jika ada sebarang kemusykilan, sila berhubung dengan kami di <a href="mailto:kokuclothes@gmail.com">kokuclothes@gmail.com</a>.
+<br/>
+<p style="font-style: italic;">If you did not make this request or are unsure why you are receiving this email, you may contact us at <a href="mailto:kokuclothes@gmail.com">kokuclothes@gmail.com</a>.</p></span>
+</body>
+</html>
